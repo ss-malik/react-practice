@@ -7,6 +7,7 @@ import Five from "./Five";
 import Six from "./Six";
 import Counter from "./Counter";
 import Tailwind from "./Tailwind";
+import BgChange from "./BgChange";
 
 export default function App() {
   return (
@@ -18,7 +19,8 @@ export default function App() {
       {/* <Five /> */}
       {/* <Six /> */}
       {/* <Counter /> */}
-      <Tailwind />
+      {/* <Tailwind /> */}
+      <BgChange />
     </>
   );
 }
