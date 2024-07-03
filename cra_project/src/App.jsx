@@ -6,6 +6,7 @@ import Four from "./Four";
 import Five from "./Five";
 import Six from "./Six";
 import Counter from "./Counter";
+import Tailwind from "./Tailwind";
 
 export default function App() {
   return (
@@ -16,7 +17,8 @@ export default function App() {
       {/* <Four /> */}
       {/* <Five /> */}
       {/* <Six /> */}
-      <Counter />
+      {/* <Counter /> */}
+      <Tailwind />
     </>
   );
 }
